@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+  }
+header{
+    background-color: #bacac8c9;
+    padding: 2px;
+    text-align: center;
+}
+nav{
+    background-color: #23496d;
+    text-align: center;
+    padding: 25px 0;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 1.1em;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+ 
+nav a:hover {
+    background-color: #5a6e77;
+}
+
+.container{
+    justify-content: center;
+}
