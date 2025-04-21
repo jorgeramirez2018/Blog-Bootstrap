@@ -1,0 +1,18 @@
+.bg-col {
+    background-color: rgb(111, 138, 165) !important;
+}
+
+
+  .btn-cambiar {
+    color: white;
+    transition: color 0.3s;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 1.1em;
+    border-radius: 5px;
+  }
+
+  .btn-cambiar:hover {
+    color: #65c994; 
+  }
